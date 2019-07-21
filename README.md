@@ -28,6 +28,10 @@ Transaction are recorded in order
 
 ```  java -jar ./target/TransactionApp-0.0.1-SNAPSHOT-jar-with-dependencies.jar ./src/main/resources/Transaction.csv ACC334455 "20/10/2016 12:47:55" "20/10/2019 12:47:55"```
 
+This command has following format:
+
+```java -jar <jar_name> <csv_path> <accountId> <\"fromDate\"> <\"toDate\">```
+	
 * Now application is started.
 
 ## Author
