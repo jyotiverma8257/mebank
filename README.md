@@ -26,8 +26,8 @@ Transaction are recorded in order
 ``` mvn clean install ```
 * Run the application using following command
 
-```  java -jar ./target/TransactionApp-0.0.1-SNAPSHOT-jar-with-dependencies.jar ./src/main/resources/Transaction.csv ACC334455 "20/10/2016 12:47:55"
-"20/10/2019 12:47:55"```
+```  java -jar ./target/TransactionApp-0.0.1-SNAPSHOT-jar-with-dependencies.jar ./src/main/resources/Transaction.csv ACC334455 "20/10/2016 12:47:55" "20/10/2019 12:47:55"```
+
 * Now application is started.
 
 ## Author
